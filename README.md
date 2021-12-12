@@ -1,3 +1,3 @@
 # R-Studioとgithubの連携テスト
-いくつかのR scriptをR-Studioで更新してpush
+R-Studioで更新してpush
 
